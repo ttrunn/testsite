@@ -1,0 +1,41 @@
+.h3_header_1 {
+	color: powderblue;
+}
+.h3_header_2 {
+	color: #ffd41c;
+}
+p {
+	text-align: justify;
+}
+.question {
+	padding-top: 10px;
+	border-bottom: 1px solid gray;
+	padding-bottom: 10px;
+}
+.answer {
+	border: 2px solid powderblue;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	display: inline-block;
+}
+.not_answer {
+	border: 2px solid gray;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	display: inline-block;
+}
+.uncnown_answer {
+	border: 2px solid #ffd41c;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	display: inline-block;
+}
+table, th, td {
+   border: 1px solid grey;
+}
